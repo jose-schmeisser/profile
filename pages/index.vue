@@ -14,6 +14,9 @@ import {
   IconBrandReact,
   IconTerminal2,
   IconPlus,
+  IconRefresh,
+  IconLayoutKanban,
+  IconRocket,
 } from "@tabler/icons-vue";
 
 definePageMeta({
@@ -307,25 +310,16 @@ definePageMeta({
                 <ul>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:scrum"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                    <IconRefresh class="shrink-0 size-5 me-1" />
                     Scrum
                   </li>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:kanban"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                    <IconLayoutKanban class="shrink-0 size-5 me-1" />
                     Kanban
                   </li>
                   <li class="me-1 inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:cicd"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                    <IconRocket class="shrink-0 size-5 me-1" />
                     CI/CD
                   </li>
                 </ul>
