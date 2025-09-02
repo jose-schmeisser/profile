@@ -4,6 +4,7 @@ import {
   IconBrandLinkedin,
   IconBrandGithub,
   IconMail,
+  IconPhone,
   IconBrandAzure,
   IconBrandPython,
   IconBrandPhp,
@@ -87,6 +88,14 @@ definePageMeta({
               <a class="text-[13px] text-gray-500 underline hover:text-gray-800 hover:decoration-2 focus:outline-hidden focus:decoration-2 dark:text-neutral-500 dark:hover:text-neutral-400"
                 href="mailto:jose.schmeisser.saavedra@gmail.com">
                 jose.schmeisser.saavedra@gmail.com
+              </a>
+            </li>
+
+            <li class="flex items-center gap-x-2.5">
+              <IconPhone class="shrink-0 size-5 text-gray-800 dark:text-neutral-200" />
+              <a class="text-[13px] text-gray-500 underline hover:text-gray-800 hover:decoration-2 focus:outline-hidden focus:decoration-2 dark:text-neutral-500 dark:hover:text-neutral-400"
+                href="tel:+56997958640">
+                +569 9795 8640
               </a>
             </li>
 
