@@ -561,7 +561,7 @@ definePageMeta({
             <div class="p-4 border border-gray-200 rounded-lg dark:border-neutral-700">
               <NuxtImg 
                 class="shrink-0 size-8 dark:hidden" 
-                src="images/uaustralchile.png" 
+                src="images/uaustralchile-dark.png" 
                 alt="Universidad Austral de Chile" 
               />
               <NuxtImg 
@@ -569,20 +569,16 @@ definePageMeta({
                 src="images/uaustralchile-light.png" 
                 alt="Universidad Austral de Chile" 
               />
-
               <h3 class="mb-1 text-xs text-gray-600 dark:text-neutral-400">
                 2011
               </h3>
-
               <p class="font-semibold text-sm text-gray-800 dark:text-neutral-200">
                 Ingeniería en Computación
               </p>
-
               <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
                 Universidad Austral de Chile
               </p>
-            </div>
-            
+            </div>            
             <div class="p-4 border border-gray-200 rounded-lg dark:border-neutral-700">
               <NuxtImg 
                 class="shrink-0 size-8 dark:hidden" 
@@ -594,18 +590,36 @@ definePageMeta({
                 src="images/uchile-light.png" 
                 alt="Universidad de Chile" 
               />
-
-
               <h3 class="mb-1 text-xs text-gray-600 dark:text-neutral-400">
                 2022
               </h3>
-
               <p class="font-semibold text-sm text-gray-800 dark:text-neutral-200">
                 Diplomado en Negocios y Gestión Empresarial
               </p>
-
               <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
                 Universidad de Chile - Facultad de Economía y Negocios
+              </p>
+            </div>
+                   
+            <div class="p-4 border border-gray-200 rounded-lg dark:border-neutral-700">
+              <NuxtImg 
+                class="shrink-0 size-8 dark:hidden" 
+                src="images/gtalent-dark.png" 
+                alt="G-Talent.net" 
+              />
+              <NuxtImg 
+                class="shrink-0 size-8 hidden dark:block" 
+                src="images/gtalent-light.png" 
+                alt="G-Talent.net" 
+              />
+              <h3 class="mb-1 text-xs text-gray-600 dark:text-neutral-400">
+                2025
+              </h3>
+              <p class="font-semibold text-sm text-gray-800 dark:text-neutral-200">
+                Diplomado Scrum Master Professional
+              </p>
+              <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
+                G-Talent.net ID:<a href="https://courses.architechpro.cc/g-talent/validez_certificado?h=j%2BV6W9jN7lgR7tKhSVDQ2JehwLqxParQg6XZtKeHOBuL4nbBGcQtACghSf1j3zXM" target="_blank">GT20250902</a>
               </p>
             </div>
           </div>
