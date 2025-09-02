@@ -1,0 +1,63 @@
+Jose Schmeisser Saavedra
++569 9795 8640 | jose.schmeisser.saavedra@gmail.com | https://www.linkedin.com/in/jschmeisser
+
+Extracto
+
+Ingeniero en Computación con más de 14 años de experiencia liderando equipos de desarrollo y arquitecturas de software en proyectos de alto impacto para sectores público y privado. Experto en microservicios, APIs, React.js, FastAPI, Django y .NET Core, con sólida experiencia en Docker, Azure, BI y metodologías ágiles.
+Mi valor diferencial está en combinar liderazgo humano, mentoría técnica y visión arquitectónica para impulsar equipos autónomos, entregar soluciones escalables y generar impacto estratégico en la organización.
+Experiencia Laboral
+
+Consultor TI – Openlink (2023 – 2025)
+* Diseñé arquitecturas de microservicios para productos SaaS, utilizando React.js, FastAPI, MongoDB y Docker en entornos productivos.
+* Implementé procesos de automatización en Azure y Logic Apps, logrando reducción del 30% en tiempos operativos en áreas críticas.
+* Introduje visualizaciones de datos estratégicas con Power BI, fortaleciendo la analítica para la toma de decisiones.
+* Lideré espacios de retroalimentación y mentoría técnica, promoviendo la autonomía y mejorando la colaboración del equipo.
+Stack: React.js, FastAPI, Python, MongoDB, Docker, Azure, Power BI, GitHub, Git.
+
+Encargado de Desarrollo – ECOS Chile (2019 – 2023)
+* Formé y consolidé un equipo de desarrollo fullstack, implementando prácticas de autonomía, colaboración y aprendizaje continuo.
+* Lideré el desarrollo de plataformas clave para la gestión del cumplimiento ambiental, utilizando Django, PostgreSQL y SQL Server.
+* Introduje metodologías ágiles (Scrum y Kanban), logrando una mejora del 25% en la eficiencia del ciclo de desarrollo.
+* Implementé soluciones de reportería avanzada con Power BI, agilizando la generación de reportes regulatorios.
+* Modernicé el stack tecnológico y prácticas de trabajo, aumentando la calidad y velocidad de las entregas.
+Stack: Django, PostgreSQL, SQL Server, Power BI, Bitbucket, Git, JIRA.
+ 
+Profesional TI – Superintendencia del Medio Ambiente (2012 – 2019)
+* Lideré el desarrollo de sistemas regulatorios nacionales en C#, .NET y SQL Server, dirigidos a la ciudadanía y empresas reguladas.
+* Proyectos destacados: Sistema de Fiscalización Ambiental, Seguimiento Ambiental, Sistema Nacional de Información de Fiscalización Ambiental.
+* Diseñé soluciones escalables y seguras, mejorando trazabilidad y eficiencia en la gestión de datos regulatorios.
+* Coordiné equipos multidisciplinarios bajo Scrum y Kanban, asegurando entregas oportunas y de alto impacto.
+* Fortalecí un equipo técnico especializado, promoviendo desarrollo profesional y autonomía.
+Stack: C#, .NET Framework/Core, SQL Server, Visual Studio, TFS, JIRA.
+
+Ingeniero de Desarrollo – TECNOVA S.A. (2011 – 2012)
+* Desarrollé aplicaciones de escritorio y móviles para clientes estratégicos, utilizando PhoneGap y Visual Basic.
+* Optimicé procesos ETL en el sector bancario, mejorando el rendimiento y la eficiencia de los flujos de datos.
+* Implementé control de versiones con Tortoise SVN, mejorando trazabilidad y calidad del desarrollo.
+Stack: PhoneGap, Visual Basic, ETL, Tortoise SVN.
+
+Encargado de Desarrollo – Municipalidad de Puerto Montt (2010 – 2011)
+* Desarrollé y mantuve sistemas municipales con PHP, PostgreSQL y jQuery, fortaleciendo la operación de áreas críticas como salud.
+* Diseñé la línea gráfica e interfaces de usuario, asegurando coherencia y usabilidad.
+* Reestructuré la arquitectura del Sistema de Salud Municipal, aumentando su escalabilidad y mantenibilidad.
+* Implementé nuevas metodologías de desarrollo, mejorando eficiencia y colaboración del equipo.
+Stack: PHP, PostgreSQL, jQuery.
+Competencias Técnicas
+
+* Arquitectura de Software: Microservicios, APIs, integración de sistemas
+* Liderazgo Técnico: Formación de equipos, mentoría, gestión ágil, feedback continuo
+* Frontend: React.js, jQuery
+* Backend: Python (FastAPI, Django), C# (.NET Core/Framework), PHP
+* Bases de Datos: MongoDB, PostgreSQL, SQL Server
+* Cloud & DevOps: Docker, Azure, CI/CD, GitHub, Bitbucket, TFS
+* Data & BI: Power BI, ETL
+* Metodologías: Scrum, Kanban, trabajo colaborativo multidisciplinario
+
+Educación
+
+2011	Obtención de título de Ingeniero en Computación.
+Universidad Austral de Chile.
+Tesis: "Diseño y construcción del Módulo Dental para la Atención Primaria del Servicio de Salud de la Municipalidad de Puerto Montt".
+
+2022	Diplomado en Extensión en Negocios y Gestión Empresarial.
+Universidad de Chile - Facultad de Economía y Negocios.

@@ -1,0 +1,63 @@
+Jose Schmeisser Saavedra
++569 9795 8640 | jose.schmeisser.saavedra@gmail.com | https://www.linkedin.com/in/jschmeisser
+
+Extracto
+
+Soy Ingeniero en Computación con más de 10 años de experiencia en desarrollo fullstack, construyendo aplicaciones web, APIs y microservicios. Domino React.js en frontend y Python (FastAPI, Django) y C# (.NET Core) en backend, trabajando con bases de datos como MongoDB, PostgreSQL y SQL Server.
+Tengo experiencia en entornos cloud y DevOps (Azure, Docker, GitHub/Bitbucket), y en analítica de datos con Power BI y ETL. A lo largo de mi carrera he trabajado tanto con tecnologías modernas como con entornos legacy, lo que me da una visión integral para integrar y evolucionar sistemas.
+Mi enfoque combina capacidad técnica, buenas prácticas de desarrollo y colaboración en equipo, aportando soluciones escalables y de alto impacto.
+
+Experiencia Laboral
+
+Consultor TI – Openlink (2023 – 2025)
+* Diseñé e implementé aplicaciones fullstack utilizando React.js, FastAPI, MongoDB y Docker bajo arquitecturas de microservicios, garantizando escalabilidad y mantenibilidad en entornos de producción.
+* Desarrollé e integré APIs REST y Web Services que optimizaron flujos de negocio clave, mejorando la interoperabilidad entre sistemas.
+* Implementé procesos de automatización en Azure y Logic Apps, reduciendo en un 30% los tiempos operativos en áreas críticas.
+* Introduje prácticas de visualización de datos con Power BI, habilitando dashboards estratégicos para la toma de decisiones.
+* Fomenté una cultura de retroalimentación y mentoría técnica, impulsando la autonomía y colaboración del equipo.
+Stack principal: React.js, FastAPI, Python, MongoDB, Docker, Azure, Power BI, GitHub, Git.
+
+Encargado de Desarrollo – ECOS Chile (2019 – 2023)
+* Lideré el desarrollo de plataformas para la gestión del cumplimiento ambiental, construidas con Django, PostgreSQL y SQL Server, mejorando la trazabilidad y reportabilidad de procesos internos y de clientes externos.
+* Diseñé e implementé APIs y dashboards en Power BI, integrando datos críticos y agilizando reportes regulatorios.
+* Introduje nuevas metodologías y herramientas de desarrollo, logrando una mejora del 25% en la eficiencia del ciclo de desarrollo.
+* Formé y consolidé un equipo de desarrollo fullstack, fomentando autonomía, colaboración y aprendizaje continuo con un liderazgo cercano que redujo la rotación.
+* Coordiné equipos multidisciplinarios bajo Scrum y Kanban, garantizando entregas más ágiles y alineadas a las necesidades del negocio.
+Stack principal: Django, PostgreSQL, SQL Server, Power BI, Bitbucket, Git, JIRA.
+ 
+Profesional TI – Superintendencia del Medio Ambiente (2012 – 2019)
+* Lideré y participé en el desarrollo de sistemas de gestión ambiental a nivel nacional, construidos con C#, .NET Framework/Core y SQL Server, dirigidos tanto a la ciudadanía como a empresas reguladas.
+* Desarrollé aplicaciones críticas como el Sistema de Fiscalización Ambiental, Seguimiento Ambiental y el Sistema Nacional de Información de Fiscalización, utilizados por miles de usuarios en todo el país.
+* Diseñé soluciones escalables y seguras, optimizando la trazabilidad de datos y la gestión de procesos regulatorios.
+* Coordiné equipos multidisciplinarios bajo Scrum y Kanban, asegurando entregas ágiles y de alto impacto en el sector público.
+* Conformé y consolidé un equipo técnico especializado, promoviendo autonomía y desarrollo profesional en un entorno de innovación tecnológica.
+Stack principal: C#, .NET Framework/Core, SQL Server, Visual Studio, Team Foundation Server, JIRA.
+
+Ingeniero de Desarrollo – TECNOVA S.A. (2011 – 2012)
+* Desarrollé soluciones informáticas de escritorio y móviles para clientes estratégicos, aplicando tecnologías de la época como PhoneGap y Visual Basic.
+* Optimicé procesos ETL en el sector bancario, logrando mejoras significativas en el rendimiento y la eficiencia del manejo de datos.
+* Contribuí a la integración de herramientas de control de versiones (Tortoise SVN), fortaleciendo la trazabilidad y calidad del código en proyectos críticos.
+
+Encargado de Desarrollo – Municipalidad de Puerto Montt (2010 – 2011)
+* Desarrollé y mantuve sistemas municipales utilizando PHP, PostgreSQL y jQuery, asegurando estabilidad y continuidad operativa en áreas críticas como salud.
+* Diseñé la línea gráfica e interfaces de usuario, garantizando experiencias coherentes, funcionales y orientadas a la usabilidad.
+* Implementé nuevas metodologías y procesos de desarrollo, optimizando la colaboración del equipo y mejorando la calidad de las entregas.
+* Reestructuré la organización y arquitectura de proyectos del Sistema de Salud Municipal, aumentando su escalabilidad y mantenibilidad a largo plazo.
+
+Competencias Técnicas
+
+* Frontend: React.js, jQuery
+* Backend: Python (FastAPI, Django), C# (.NET Core/Framework), PHP
+* Bases de datos: MongoDB, PostgreSQL, SQL Server
+* DevOps & Cloud: Docker, Microsoft Azure, GitHub, Bitbucket, TFS
+* Data & BI: Power BI, ETL
+* Metodologías: Scrum, Kanban, CI/CD
+
+Educación
+
+2011	Obtención de título de Ingeniero en Computación.
+Universidad Austral de Chile.
+Tesis: "Diseño y construcción del Módulo Dental para la Atención Primaria del Servicio de Salud de la Municipalidad de Puerto Montt".
+
+2022	Diplomado en Extensión en Negocios y Gestión Empresarial.
+Universidad de Chile - Facultad de Economía y Negocios.
