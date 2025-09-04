@@ -161,12 +161,6 @@ definePageMeta({
                     />
                     FastAPI
                   </li>
-                  <li
-                    class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <IconBrandJavascript class="shrink-0 size-5 me-1" />
-                    JavaScript
-                  </li>
-                </ul>
               </dd>
             </dl>
 
@@ -194,7 +188,7 @@ definePageMeta({
                     jQuery
                   </li>
                   <li
-                    class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
+                    class="me-1 inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
                     <Icon
                       name="simple-icons:bootstrap"
                       class="shrink-0 text-[20px] me-1 text-gray"
@@ -300,7 +294,7 @@ definePageMeta({
                   </li>
                   
                   <li
-                    class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
+                    class="me-1 inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
                     <Icon
                       name="mdi:database-sync"
                       class="shrink-0 text-[20px] me-1 text-gray"
