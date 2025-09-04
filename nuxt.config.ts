@@ -20,7 +20,7 @@ export default defineNuxtConfig({
       ],
       title: 'Jose Schmeisser - Personal Website',
       meta: [
-        { name: 'description', content: 'Senior Full Stack Developer & Tech Lead +14 years of experience' },
+        { name: 'description', content: 'Senior Full Stack Developer & Tech Lead with +14 years of experience' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { charset: 'utf-8' }
       ],
