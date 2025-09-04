@@ -468,7 +468,7 @@ definePageMeta({
                 </p>
 
                 <p class="mt-2 text-sm text-gray-600 dark:text-neutral-400">
-                  Desarrollé aplicaciones críticas como el Sistema Nacional de Fiscalización Ambiental, Sistema Nacional deSeguimiento Ambiental y el Sistema Nacional de Información de Fiscalización, utilizados por miles de usuarios en todo el país.
+                  Desarrollé aplicaciones críticas como el Sistema Nacional de Fiscalización Ambiental, Sistema Nacional de Seguimiento Ambiental y el Sistema Nacional de Información de Fiscalización, utilizados por miles de usuarios en todo el país.
                 </p>
                 <p class="mt-2 text-sm text-gray-600 dark:text-neutral-400">
                   Logros destacados:
