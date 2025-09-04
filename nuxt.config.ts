@@ -28,7 +28,7 @@ export default defineNuxtConfig({
         { property: 'og:title', content: 'Jose Schmeisser - Senior Full Stack Developer & Tech Lead' },
         { property: 'og:description', content: 'Senior Full Stack Developer & Tech Lead with +14 years of experience' },
         { property: 'og:image', content: '/images/avatar2.png' },
-        { property: 'og:url', content: 'https://jose-schmeisser.dev' },
+        { property: 'og:url', content: 'https://jschmeisser.cl' },
         // Twitter
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:title', content: 'Jose Schmeisser - Senior Full Stack Developer & Tech Lead' },
