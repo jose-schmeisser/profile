@@ -468,7 +468,7 @@ definePageMeta({
                 </p>
 
                 <p class="mt-2 text-sm text-gray-600 dark:text-neutral-400">
-                  Desarrollé aplicaciones críticas como el Sistema de Fiscalización Ambiental, Seguimiento Ambiental y el Sistema Nacional de Información de Fiscalización, utilizados por miles de usuarios en todo el país.
+                  Desarrollé aplicaciones críticas como el Sistema Nacional de Fiscalización Ambiental, Sistema Nacional deSeguimiento Ambiental y el Sistema Nacional de Información de Fiscalización, utilizados por miles de usuarios en todo el país.
                 </p>
                 <p class="mt-2 text-sm text-gray-600 dark:text-neutral-400">
                   Logros destacados:
@@ -479,7 +479,7 @@ definePageMeta({
                     Diseñé soluciones escalables y seguras, optimizando la trazabilidad de datos y la gestión de procesos regulatorios.
                   </li>
                   <li class="ps-1 text-sm text-gray-600 dark:text-neutral-400">
-                    Coordiné equipos multidisciplinarios bajo Scrum y Kanban, asegurando entregas ágiles y de alto impacto en el sector público.
+                    Coordiné equipos multidisciplinarios, asegurando entregas oportunas y de alto impacto en el sector público.
                   </li>
                 </ul>
               </div>
