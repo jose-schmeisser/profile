@@ -418,7 +418,7 @@ definePageMeta({
                 </p>
 
                 <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
-                  Lideré el desarrollo de plataformas para la gestión del cumplimiento ambiental, construidas con Django, PostgreSQL y SQL Server, mejorando la trazabilidad y reportabilidad de procesos internos y de clientes externos.
+                  Lideré el desarrollo de plataformas para la gestión del cumplimiento ambiental, construidas con Django y PostgreSQL, mejorando la trazabilidad y reportabilidad de procesos internos y de clientes externos.
                 </p>
 
                 <p class="mt-2 text-sm text-gray-600 dark:text-neutral-400">
