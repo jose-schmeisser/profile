@@ -71,14 +71,19 @@ definePageMeta({
         <div class="mt-8">
           <p class="text-sm text-gray-600 dark:text-neutral-400">
             Ingeniero en Computación con más de 14 años de experiencia en desarrollo fullstack, arquitectura de software
-            y liderazgo técnico. He construido aplicaciones web, APIs y microservicios utilizando React.js, Python (FastAPI, Django),
-            C# (.NET Core), MongoDB, PostgreSQL y SQL Server, trabajando en entornos cloud y DevOps con Azure, Docker y CI/CD.
+            y liderazgo técnico. He construido aplicaciones web, APIs y microservicios utilizando React.js, Python
+            (FastAPI, Django),
+            C# (.NET Core), MongoDB, PostgreSQL y SQL Server, trabajando en entornos cloud y DevOps con Azure, Docker y
+            CI/CD.
           </p>
 
           <p class="mt-3 text-sm text-gray-600 dark:text-neutral-400">
-            Mi valor diferencial está en combinar liderazgo humano, mentoría técnica y visión arquitectónica para impulsar
-            equipos autónomos, entregar soluciones escalables y generar impacto estratégico. He liderado equipos multidisciplinarios
-            bajo metodologías ágiles (Scrum, Kanban) y implementado procesos de automatización que han reducido tiempos operativos
+            Mi valor diferencial está en combinar liderazgo humano, mentoría técnica y visión arquitectónica para
+            impulsar
+            equipos autónomos, entregar soluciones escalables y generar impacto estratégico. He liderado equipos
+            multidisciplinarios
+            bajo metodologías ágiles (Scrum, Kanban) y implementado procesos de automatización que han reducido tiempos
+            operativos
             en un 30%.
           </p>
 
@@ -139,28 +144,19 @@ definePageMeta({
                   </li>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:csharp"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                    <Icon name="simple-icons:csharp" class="shrink-0 text-[20px] me-1 text-gray" />
                     C# (.NET Core)
                   </li>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:django"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                    <Icon name="simple-icons:django" class="shrink-0 text-[20px] me-1 text-gray" />
                     Django
                   </li>
-                  <li
-                    class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:fastapi"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                  <li class="me-1 inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
+                    <Icon name="simple-icons:fastapi" class="shrink-0 text-[20px] me-1 text-gray" />
                     FastAPI
                   </li>
+                </ul>
               </dd>
             </dl>
 
@@ -181,18 +177,11 @@ definePageMeta({
                   </li>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:jquery"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                    <Icon name="simple-icons:jquery" class="shrink-0 text-[20px] me-1 text-gray" />
                     jQuery
                   </li>
-                  <li
-                    class="me-1 inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:bootstrap"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                  <li class="me-1 inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
+                    <Icon name="simple-icons:bootstrap" class="shrink-0 text-[20px] me-1 text-gray" />
                     Bootstrap
                   </li>
                 </ul>
@@ -207,25 +196,16 @@ definePageMeta({
                 <ul>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:mongodb"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                    <Icon name="simple-icons:mongodb" class="shrink-0 text-[20px] me-1 text-gray" />
                     MongoDB
                   </li>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:postgresql"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                    <Icon name="simple-icons:postgresql" class="shrink-0 text-[20px] me-1 text-gray" />
                     PostgreSQL
                   </li>
                   <li class="me-1 inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:microsoftsqlserver"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                    <Icon name="simple-icons:microsoftsqlserver" class="shrink-0 text-[20px] me-1 text-gray" />
                     SQL Server
                   </li>
                 </ul>
@@ -245,33 +225,21 @@ definePageMeta({
                   </li>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:docker"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                    <Icon name="simple-icons:docker" class="shrink-0 text-[20px] me-1 text-gray" />
                     Docker
                   </li>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:github"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                    <Icon name="simple-icons:github" class="shrink-0 text-[20px] me-1 text-gray" />
                     GitHub
                   </li>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:bitbucket"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                    <Icon name="simple-icons:bitbucket" class="shrink-0 text-[20px] me-1 text-gray" />
                     Bitbucket
                   </li>
                   <li class="me-1 inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:jira"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                    <Icon name="simple-icons:jira" class="shrink-0 text-[20px] me-1 text-gray" />
                     JIRA
                   </li>
                 </ul>
@@ -286,19 +254,12 @@ definePageMeta({
                 <ul>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="simple-icons:powerbi"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+                    <Icon name="simple-icons:powerbi" class="shrink-0 text-[20px] me-1 text-gray" />
                     Power BI
                   </li>
-                  
-                  <li
-                    class="me-1 inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon
-                      name="mdi:database-sync"
-                      class="shrink-0 text-[20px] me-1 text-gray"
-                    />
+
+                  <li class="me-1 inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
+                    <Icon name="mdi:database-sync" class="shrink-0 text-[20px] me-1 text-gray" />
                     ETL Processes
                   </li>
                 </ul>
@@ -365,11 +326,15 @@ definePageMeta({
                 </p>
 
                 <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
-                  Diseñé e implementé aplicaciones fullstack utilizando React.js, FastAPI, MongoDB y Docker bajo arquitecturas de microservicios, garantizando escalabilidad y mantenibilidad en entornos de producción.
+                  Diseñé e implementé aplicaciones fullstack utilizando React.js, FastAPI, MongoDB y Docker bajo
+                  arquitecturas de microservicios, garantizando escalabilidad y mantenibilidad en entornos de
+                  producción.
                 </p>
 
                 <p class="mt-2 text-sm text-gray-600 dark:text-neutral-400">
-                  Desarrollé e integré APIs REST y Web Services que optimizaron flujos de negocio clave, mejorando la interoperabilidad entre sistemas. Implementé procesos de automatización en Azure y Logic Apps, reduciendo en un 30% los tiempos operativos en áreas críticas.
+                  Desarrollé e integré APIs REST y Web Services que optimizaron flujos de negocio clave, mejorando la
+                  interoperabilidad entre sistemas. Implementé procesos de automatización en Azure y Logic Apps,
+                  reduciendo en un 30% los tiempos operativos en áreas críticas.
                 </p>
                 <p class="mt-2 text-sm text-gray-600 dark:text-neutral-400">
                   Logros destacados:
@@ -377,10 +342,12 @@ definePageMeta({
 
                 <ul class="list-disc ms-6 mt-2 space-y-1.5">
                   <li class="ps-1 text-sm text-gray-600 dark:text-neutral-400">
-                    Introduje prácticas de visualización de datos con Power BI, habilitando dashboards estratégicos para la toma de decisiones.
+                    Introduje prácticas de visualización de datos con Power BI, habilitando dashboards estratégicos para
+                    la toma de decisiones.
                   </li>
                   <li class="ps-1 text-sm text-gray-600 dark:text-neutral-400">
-                    Fomenté una cultura de retroalimentación y mentoría técnica, impulsando la autonomía y colaboración del equipo.
+                    Fomenté una cultura de retroalimentación y mentoría técnica, impulsando la autonomía y colaboración
+                    del equipo.
                   </li>
                 </ul>
 
@@ -412,11 +379,14 @@ definePageMeta({
                 </p>
 
                 <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
-                  Lideré el desarrollo de plataformas para la gestión del cumplimiento ambiental, construidas con Django y PostgreSQL, mejorando la trazabilidad y reportabilidad de procesos internos y de clientes externos.
+                  Lideré el desarrollo de plataformas para la gestión del cumplimiento ambiental, construidas con Django
+                  y PostgreSQL, mejorando la trazabilidad y reportabilidad de procesos internos y de clientes externos.
                 </p>
 
                 <p class="mt-2 text-sm text-gray-600 dark:text-neutral-400">
-                  Formé y consolidé un equipo de desarrollo fullstack, fomentando autonomía, colaboración y aprendizaje continuo con un liderazgo cercano que redujo la rotación. Introduje nuevas metodologías y herramientas de desarrollo, logrando una mejora del 25% en la eficiencia del ciclo de desarrollo.
+                  Formé y consolidé un equipo de desarrollo fullstack, fomentando autonomía, colaboración y aprendizaje
+                  continuo con un liderazgo cercano que redujo la rotación. Introduje nuevas metodologías y herramientas
+                  de desarrollo, logrando una mejora del 25% en la eficiencia del ciclo de desarrollo.
                 </p>
                 <p class="mt-2 text-sm text-gray-600 dark:text-neutral-400">
                   Logros destacados:
@@ -424,10 +394,12 @@ definePageMeta({
 
                 <ul class="list-disc ms-6 mt-2 space-y-1.5">
                   <li class="ps-1 text-sm text-gray-600 dark:text-neutral-400">
-                    Diseñé e implementé APIs y dashboards en Power BI, integrando datos críticos y agilizando reportes regulatorios.
+                    Diseñé e implementé APIs y dashboards en Power BI, integrando datos críticos y agilizando reportes
+                    regulatorios.
                   </li>
                   <li class="ps-1 text-sm text-gray-600 dark:text-neutral-400">
-                    Coordiné equipos multidisciplinarios bajo Scrum y Kanban, garantizando entregas más ágiles y alineadas a las necesidades del negocio.
+                    Coordiné equipos multidisciplinarios bajo Scrum y Kanban, garantizando entregas más ágiles y
+                    alineadas a las necesidades del negocio.
                   </li>
                 </ul>
               </div>
@@ -458,11 +430,14 @@ definePageMeta({
                 </p>
 
                 <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
-                  Lideré y participé en el desarrollo de sistemas de gestión ambiental a nivel nacional, construidos con C#, .NET Framework/Core y SQL Server, dirigidos tanto a la ciudadanía como a empresas reguladas.
+                  Lideré y participé en el desarrollo de sistemas de gestión ambiental a nivel nacional, construidos con
+                  C#, .NET Framework/Core y SQL Server, dirigidos tanto a la ciudadanía como a empresas reguladas.
                 </p>
 
                 <p class="mt-2 text-sm text-gray-600 dark:text-neutral-400">
-                  Desarrollé aplicaciones críticas como el Sistema Nacional de Fiscalización Ambiental, Sistema Nacional de Seguimiento Ambiental y el Sistema Nacional de Información de Fiscalización, utilizados por miles de usuarios en todo el país.
+                  Desarrollé aplicaciones críticas como el Sistema Nacional de Fiscalización Ambiental, Sistema Nacional
+                  de Seguimiento Ambiental y el Sistema Nacional de Información de Fiscalización, utilizados por miles
+                  de usuarios en todo el país.
                 </p>
                 <p class="mt-2 text-sm text-gray-600 dark:text-neutral-400">
                   Logros destacados:
@@ -470,10 +445,12 @@ definePageMeta({
 
                 <ul class="list-disc ms-6 mt-2 space-y-1.5">
                   <li class="ps-1 text-sm text-gray-600 dark:text-neutral-400">
-                    Diseñé soluciones escalables y seguras, optimizando la trazabilidad de datos y la gestión de procesos regulatorios.
+                    Diseñé soluciones escalables y seguras, optimizando la trazabilidad de datos y la gestión de
+                    procesos regulatorios.
                   </li>
                   <li class="ps-1 text-sm text-gray-600 dark:text-neutral-400">
-                    Coordiné equipos multidisciplinarios, asegurando entregas oportunas y de alto impacto en el sector público.
+                    Coordiné equipos multidisciplinarios, asegurando entregas oportunas y de alto impacto en el sector
+                    público.
                   </li>
                 </ul>
               </div>
@@ -504,11 +481,14 @@ definePageMeta({
                 </p>
 
                 <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
-                  Desarrollé soluciones informáticas de escritorio y móviles para clientes estratégicos, aplicando tecnologías de la época como PhoneGap y Visual Basic.
+                  Desarrollé soluciones informáticas de escritorio y móviles para clientes estratégicos, aplicando
+                  tecnologías de la época como PhoneGap y Visual Basic.
                 </p>
 
                 <p class="mt-2 text-sm text-gray-600 dark:text-neutral-400">
-                  Optimicé procesos ETL en el sector bancario, logrando mejoras significativas en el rendimiento y la eficiencia del manejo de datos. Contribuí a la integración de herramientas de control de versiones (Tortoise SVN), fortaleciendo la trazabilidad y calidad del código en proyectos críticos.
+                  Optimicé procesos ETL en el sector bancario, logrando mejoras significativas en el rendimiento y la
+                  eficiencia del manejo de datos. Contribuí a la integración de herramientas de control de versiones
+                  (Tortoise SVN), fortaleciendo la trazabilidad y calidad del código en proyectos críticos.
                 </p>
               </div>
               <!-- End Right Content -->
@@ -538,11 +518,14 @@ definePageMeta({
                 </p>
 
                 <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
-                  Desarrollé y mantuve sistemas municipales utilizando PHP, PostgreSQL y jQuery, asegurando estabilidad y continuidad operativa en áreas críticas como salud.
+                  Desarrollé y mantuve sistemas municipales utilizando PHP, PostgreSQL y jQuery, asegurando estabilidad
+                  y continuidad operativa en áreas críticas como salud.
                 </p>
 
                 <p class="mt-2 text-sm text-gray-600 dark:text-neutral-400">
-                  Diseñé la línea gráfica e interfaces de usuario, garantizando experiencias coherentes, funcionales y orientadas a la usabilidad. Reestructuré la organización y arquitectura de proyectos del Sistema de Salud Municipal, aumentando su escalabilidad y mantenibilidad a largo plazo.
+                  Diseñé la línea gráfica e interfaces de usuario, garantizando experiencias coherentes, funcionales y
+                  orientadas a la usabilidad. Reestructuré la organización y arquitectura de proyectos del Sistema de
+                  Salud Municipal, aumentando su escalabilidad y mantenibilidad a largo plazo.
                 </p>
               </div>
               <!-- End Right Content -->
@@ -562,16 +545,10 @@ definePageMeta({
           <!-- Grid -->
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
             <div class="p-4 border border-gray-200 rounded-lg dark:border-neutral-700">
-              <NuxtImg 
-                class="shrink-0 size-8 dark:hidden" 
-                src="images/uaustralchile-dark.png" 
-                alt="Universidad Austral de Chile" 
-              />
-              <NuxtImg 
-                class="shrink-0 size-8 hidden dark:block" 
-                src="images/uaustralchile-light.png" 
-                alt="Universidad Austral de Chile" 
-              />
+              <NuxtImg class="shrink-0 size-10 dark:hidden" src="images/uaustralchile-dark.png"
+                alt="Universidad Austral de Chile" />
+              <NuxtImg class="shrink-0 size-10 hidden dark:block" src="images/uaustralchile-light.png"
+                alt="Universidad Austral de Chile" />
               <h3 class="mb-1 text-xs text-gray-600 dark:text-neutral-400">
                 2011
               </h3>
@@ -581,18 +558,11 @@ definePageMeta({
               <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
                 Universidad Austral de Chile
               </p>
-            </div>            
+            </div>
             <div class="p-4 border border-gray-200 rounded-lg dark:border-neutral-700">
-              <NuxtImg 
-                class="shrink-0 size-8 dark:hidden" 
-                src="images/uchile-dark.png" 
-                alt="Universidad de Chile" 
-              />
-              <NuxtImg 
-                class="shrink-0 size-8 hidden dark:block" 
-                src="images/uchile-light.png" 
-                alt="Universidad de Chile" 
-              />
+              <NuxtImg class="shrink-0 size-10 dark:hidden" src="images/uchile-dark.png" alt="Universidad de Chile" />
+              <NuxtImg class="shrink-0 size-10 hidden dark:block" src="images/uchile-light.png"
+                alt="Universidad de Chile" />
               <h3 class="mb-1 text-xs text-gray-600 dark:text-neutral-400">
                 2022
               </h3>
@@ -603,18 +573,10 @@ definePageMeta({
                 Universidad de Chile - Facultad de Economía y Negocios
               </p>
             </div>
-                   
+
             <div class="p-4 border border-gray-200 rounded-lg dark:border-neutral-700">
-              <NuxtImg 
-                class="shrink-0 size-8 dark:hidden" 
-                src="images/gtalent-dark.png" 
-                alt="G-Talent.net" 
-              />
-              <NuxtImg 
-                class="shrink-0 size-8 hidden dark:block" 
-                src="images/gtalent-light.png" 
-                alt="G-Talent.net" 
-              />
+              <NuxtImg class="shrink-0 size-10 dark:hidden" src="images/gtalent-dark.png" alt="G-Talent.net" />
+              <NuxtImg class="shrink-0 size-10 hidden dark:block" src="images/gtalent-light.png" alt="G-Talent.net" />
               <h3 class="mb-1 text-xs text-gray-600 dark:text-neutral-400">
                 2025
               </h3>
@@ -622,13 +584,71 @@ definePageMeta({
                 Diplomado Scrum Master Professional
               </p>
               <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
-                G-Talent.net ID:<a href="https://courses.architechpro.cc/g-talent/validez_certificado?h=j%2BV6W9jN7lgR7tKhSVDQ2JehwLqxParQg6XZtKeHOBuL4nbBGcQtACghSf1j3zXM" target="_blank">GT20250902</a>
+                G-Talent.net ID:<a
+                  href="https://courses.architechpro.cc/g-talent/validez_certificado?h=j%2BV6W9jN7lgR7tKhSVDQ2JehwLqxParQg6XZtKeHOBuL4nbBGcQtACghSf1j3zXM"
+                  target="_blank">GT20250902</a>
               </p>
             </div>
           </div>
           <!-- End Grid -->
         </div>
         <!-- End Education -->
+
+        <!-- Certifications -->
+        <div class="mt-10 sm:mt-14 pb-5">
+          <h2 class="mb-3 font-medium text-gray-800 dark:text-neutral-200">
+            Certifications
+          </h2>
+
+          <!-- Grid -->
+          <div class="grid grid-cols-1 sm:grid-cols-1 gap-3">
+            
+            <div class="p-4 border border-gray-200 rounded-lg dark:border-neutral-700">
+              <div class="grid grid-cols-1 sm:grid-cols-5 gap-3">
+                <div class="sm:col-span-1">
+                  <NuxtImg class="size-30 h-auto" src="images/scrum-master-professional-certification-smpc.png"
+                    alt="SMPC" />
+                </div>
+                <div class="sm:col-span-4">
+                  <p class="font-semibold text-sm text-gray-800 dark:text-neutral-200">
+                    Scrum Master Professional Certification - SMPC®
+                  </p>
+                  <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
+                    CertiProf
+                  </p>
+                  <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
+                    ID: <a href='https://www.credly.com/badges/13453fc6-9696-4b75-b5c4-b1d0d8cd84a7/public_url'
+                      target='_blank'>TLZZVZLTKHT-XXRRWPHSY-RDHRSKDDPS</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            <div class="p-4 border border-gray-200 rounded-lg dark:border-neutral-700">
+              <div class="grid grid-cols-1 sm:grid-cols-5 gap-3">
+                <div class="sm:col-span-1">
+                  <NuxtImg class="size-30 h-auto" src="images/lifelong-learning-2025.png"
+                    alt="SMPC" />
+                </div>
+                <div class="sm:col-span-4">
+                  <p class="font-semibold text-sm text-gray-800 dark:text-neutral-200">
+                    Lifelong Learning 2025
+                  </p>
+                  <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
+                    CertiProf
+                  </p>
+                  <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
+                    ID: <a href='https://www.credly.com/badges/14debff8-6077-4313-a42a-9d2c4d647c19/public_url'
+                      target='_blank'>14DEBFF8-6077-4313-A42A-9D2C4D647C19</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <!-- End Grid -->
+        </div>
+        <!-- End Certifications -->
       </div>
     </main>
     <!-- ========== END MAIN CONTENT ========== -->
