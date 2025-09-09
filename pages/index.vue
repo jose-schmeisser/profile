@@ -602,7 +602,7 @@ definePageMeta({
 
           <!-- Grid -->
           <div class="grid grid-cols-1 sm:grid-cols-1 gap-3">
-            
+
             <div class="p-4 border border-gray-200 rounded-lg dark:border-neutral-700">
               <div class="grid grid-cols-1 sm:grid-cols-5 gap-3">
                 <div class="sm:col-span-1">
@@ -623,12 +623,32 @@ definePageMeta({
                 </div>
               </div>
             </div>
-            
+
             <div class="p-4 border border-gray-200 rounded-lg dark:border-neutral-700">
               <div class="grid grid-cols-1 sm:grid-cols-5 gap-3">
                 <div class="sm:col-span-1">
-                  <NuxtImg class="size-30 h-auto" src="images/lifelong-learning-2025.png"
-                    alt="SMPC" />
+                  <NuxtImg class="size-30 h-auto" src="images/innovation-management-professional-certification-im.1.png"
+                    alt="IMPC" />
+                </div>
+                <div class="sm:col-span-4">
+                  <p class="font-semibold text-sm text-gray-800 dark:text-neutral-200">
+                    Innovation Management Professional Certification - IMPC®
+                  </p>
+                  <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
+                    CertiProf
+                  </p>
+                  <p class="mt-1 text-sm text-gray-600 dark:text-neutral-400">
+                    ID: <a href='https://www.credly.com/badges/819debc0-8ac3-4885-b4f4-91adcf8bab75/public_url'
+                      target='_blank'>FLLLBWJQCJJ-RRFFQHFJF-WBNWQWBFDK</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="p-4 border border-gray-200 rounded-lg dark:border-neutral-700">
+              <div class="grid grid-cols-1 sm:grid-cols-5 gap-3">
+                <div class="sm:col-span-1">
+                  <NuxtImg class="size-30 h-auto" src="images/lifelong-learning-2025.png" alt="SMPC" />
                 </div>
                 <div class="sm:col-span-4">
                   <p class="font-semibold text-sm text-gray-800 dark:text-neutral-200">
