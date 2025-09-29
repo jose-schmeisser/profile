@@ -1005,7 +1005,7 @@ const navItems = [
     { href: '#resultados', label: 'Resultados' },
     { href: '#dashboard', label: 'Dashboard' },
     { href: '#code', label: 'Código' },
-    { href: '../index.vue', label: 'Jose' }
+    { href: '/', label: 'Jose' }
 ]
 
 const heroPills = ['React 18', 'FastAPI', 'MongoDB', 'Redis', 'RabbitMQ', 'Docker', 'GitHub Actions', 'Rancher', 'Nginx']
