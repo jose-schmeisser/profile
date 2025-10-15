@@ -53,7 +53,7 @@ definePageMeta({
         <div class="flex items-center gap-x-3">
           <div class="shrink-0">
             <NuxtImg class="shrink-0 size-20 rounded-full border border-gray-800 dark:border-neutral-700"
-              src="images/avatar2.png" alt="Jose Schmeisser" />
+              src="images/avatar2.jpg" alt="Jose Schmeisser" />
           </div>
 
           <div class="grow">
@@ -166,9 +166,14 @@ definePageMeta({
               </dt>
               <dd>
                 <ul>
-                  <li class="me-1 inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
+                  <li
+                    class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
                     <IconBrandReact class="shrink-0 size-5 me-1" />
                     React
+                  </li>
+                  <li class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
+                    <IconBrandVue class="shrink-0 size-5 me-1" />
+                    Vue
                   </li>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
