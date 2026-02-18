@@ -27,13 +27,13 @@ export default defineNuxtConfig({
         { property: 'og:type', content: 'website' },
         { property: 'og:title', content: 'Jose Schmeisser - Senior Full Stack Developer & Tech Lead' },
         { property: 'og:description', content: 'Senior Full Stack Developer & Tech Lead with +14 years of experience' },
-        { property: 'og:image', content: '/images/avatar2.png' },
+        { property: 'og:image', content: '/images/avatar2.jpg' },
         { property: 'og:url', content: 'https://jschmeisser.cl' },
         // Twitter
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:title', content: 'Jose Schmeisser - Senior Full Stack Developer & Tech Lead' },
         { name: 'twitter:description', content: 'Senior Full Stack Developer & Tech Lead with +14 years of experience' },
-        { name: 'twitter:image', content: '/images/avatar2.png' },
+        { name: 'twitter:image', content: '/images/avatar2.jpg' },
         // Additional meta tags
         { name: 'author', content: 'Jose Schmeisser' },
         { name: 'robots', content: 'index, follow' },
