@@ -149,7 +149,7 @@ definePageMeta({
                   </li>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
-                    <Icon name="simple-icons:java" class="shrink-0 text-[20px] me-1 text-gray" />
+                    <Icon name="mdi:language-java" class="shrink-0 text-[20px] me-1 text-gray-800 dark:text-neutral-200" />
                     Java
                   </li>
                   <li
@@ -252,6 +252,11 @@ definePageMeta({
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
                     <Icon name="simple-icons:github" class="shrink-0 text-[20px] me-1 text-gray" />
                     GitHub
+                  </li>
+                  <li
+                    class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
+                    <Icon name="simple-icons:gitlab" class="shrink-0 text-[20px] me-1 text-gray" />
+                    GitLab
                   </li>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
