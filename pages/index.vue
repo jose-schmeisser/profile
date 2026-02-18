@@ -149,6 +149,11 @@ definePageMeta({
                   </li>
                   <li
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
+                    <Icon name="simple-icons:java" class="shrink-0 text-[20px] me-1 text-gray" />
+                    Java
+                  </li>
+                  <li
+                    class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
                     <Icon name="simple-icons:django" class="shrink-0 text-[20px] me-1 text-gray" />
                     Django
                   </li>
@@ -170,6 +175,11 @@ definePageMeta({
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
                     <IconBrandReact class="shrink-0 size-5 me-1" />
                     React
+                  </li>
+                  <li
+                    class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
+                    <Icon name="simple-icons:angular" class="shrink-0 text-[20px] me-1 text-gray" />
+                    Angular
                   </li>
                   <li class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
                     <IconBrandVue class="shrink-0 size-5 me-1" />
@@ -208,6 +218,11 @@ definePageMeta({
                     class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
                     <Icon name="simple-icons:postgresql" class="shrink-0 text-[20px] me-1 text-gray" />
                     PostgreSQL
+                  </li>
+                  <li
+                    class="me-1 after:content-[','] inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
+                    <Icon name="simple-icons:oracle" class="shrink-0 text-[20px] me-1 text-gray" />
+                    Oracle
                   </li>
                   <li class="me-1 inline-flex items-center text-sm text-gray-800 dark:text-neutral-200">
                     <Icon name="simple-icons:microsoftsqlserver" class="shrink-0 text-[20px] me-1 text-gray" />
